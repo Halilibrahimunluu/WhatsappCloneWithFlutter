@@ -13,8 +13,8 @@
 * Dosyaları lib Klasörü içine atınız.
 
 #Some Images From The Automation. Otomasyondan Bazı Görüntüler.
-![alt text](http://halilibrahimunlu.rf.gd/assets/img/portfolio/mobil/wp.jpg)
-
+![Main Screen - Ana Ekran](https://media-exp1.licdn.com/dms/image/C4E22AQF3geQ9nTNSlA/feedshare-shrink_2048_1536/0/1648638625288?e=1664409600&v=beta&t=DcS31rV4RCgj3395dhB598jx2eiv2G-7psMPcmoBAXk)
+![Chat Screen - Sohbet Ekranı](https://media-exp1.licdn.com/dms/image/C4E22AQE0KQcYsxXY4A/feedshare-shrink_800/0/1648638625013?e=1664409600&v=beta&t=Xxls5LYWiP81w0CSSYoupcl0Cz576tCm9wsRdbSWQno)
 
 # Follow us on Social Media. - Bizi Sosyal Medya'da Takip Edin.
 * WebSite: Halilibrahimunlu.rf.gd
