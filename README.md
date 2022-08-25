@@ -12,7 +12,7 @@
 * CMD ile Bir Flutter Projesi Oluşturun .
 * Dosyaları lib Klasörü içine atınız.
 
-# Some Images From The Automation. Otomasyondan Bazı Görüntüler.
+# Some Images From The Automation. - Otomasyondan Bazı Görüntüler.
 
 <p align="center">
   <img src="https://media-exp1.licdn.com/dms/image/C4E22AQF3geQ9nTNSlA/feedshare-shrink_2048_1536/0/1648638625288?e=1664409600&v=beta&t=DcS31rV4RCgj3395dhB598jx2eiv2G-7psMPcmoBAXk" width="300" title="Main Screen - Ana Ekranı">
