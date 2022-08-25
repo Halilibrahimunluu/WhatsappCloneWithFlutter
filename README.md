@@ -12,6 +12,9 @@
 * CMD ile Bir Flutter Projesi Oluşturun .
 * Dosyaları lib Klasörü içine atınız.
 
+#Some Images From The Automation. Otomasyondan Bazı Görüntüler.
+![alt text](http://halilibrahimunlu.rf.gd/assets/img/portfolio/mobil/wp.jpg)
+
 
 # Follow us on Social Media. - Bizi Sosyal Medya'da Takip Edin.
 * WebSite: Halilibrahimunlu.rf.gd
