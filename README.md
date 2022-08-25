@@ -14,12 +14,9 @@
 
 # Some Images From The Automation. Otomasyondan Bazı Görüntüler.
 
-![Main Screen - Ana Ekran]()
-![Chat Screen - Sohbet Ekranı]()
-
 <p align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C4E22AQF3geQ9nTNSlA/feedshare-shrink_2048_1536/0/1648638625288?e=1664409600&v=beta&t=DcS31rV4RCgj3395dhB598jx2eiv2G-7psMPcmoBAXk" width="100" title="hover text">
-  <img src="https://media-exp1.licdn.com/dms/image/C4E22AQE0KQcYsxXY4A/feedshare-shrink_800/0/1648638625013?e=1664409600&v=beta&t=Xxls5LYWiP81w0CSSYoupcl0Cz576tCm9wsRdbSWQno" width="100" alt="accessibility text">
+  <img src="https://media-exp1.licdn.com/dms/image/C4E22AQF3geQ9nTNSlA/feedshare-shrink_2048_1536/0/1648638625288?e=1664409600&v=beta&t=DcS31rV4RCgj3395dhB598jx2eiv2G-7psMPcmoBAXk" width="300" title="Main Screen - Ana Ekran">
+  <img src="https://media-exp1.licdn.com/dms/image/C4E22AQE0KQcYsxXY4A/feedshare-shrink_800/0/1648638625013?e=1664409600&v=beta&t=Xxls5LYWiP81w0CSSYoupcl0Cz576tCm9wsRdbSWQno" width="300" alt="accessibility text">
 </p>
 
 # Follow us on Social Media. - Bizi Sosyal Medya'da Takip Edin.
